@@ -6,3 +6,5 @@ Its goal is to provide real life examples and help starting similar projects in 
 ## Tools
 - anonymization
 - aws boilerplate
+
+_Status : set up, ongoing (30/10/2025)_
